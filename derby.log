@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri May 03 08:33:34 BST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016a-7c9c-d57f-000004c2ae00 
+on database directory memory:/Users/eric/Desktop/DEVACADEMY/blackpearlbanking/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@512ddf17 
+Loaded from file:/Users/eric/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.2+9-LTS
+user.dir=/Users/eric/Desktop/DEVACADEMY/blackpearlbanking
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
